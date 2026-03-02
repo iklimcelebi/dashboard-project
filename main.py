@@ -2,3 +2,4 @@
 import weather
 import news
 
+print("Sistem başarıyla sonlandırıldı.")
